@@ -13,6 +13,21 @@
 ~~tachado~~
 `codigo`
 
+## listas
+
+#### listas desordenadas
+ - elemento 1 
+ - elemento 2
+ - elemento 3
+    - subelemento1
+
+#### listas ordenadas
+
+
+1. elemento 1
+    1. subelemento 1
+2. elemento 2
+3. elemento 3
 
 
 
