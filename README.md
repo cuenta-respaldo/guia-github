@@ -9,9 +9,9 @@
 ## texto basico
 
 **negrita** o __negrita__
-*cursiva*  0 __cursiva__
+*cursiva*  0 _cursiva_
 ~~tachado~~
-'codigo'
+`codigo`
 
 
 
